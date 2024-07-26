@@ -23,4 +23,4 @@
   <a href="https://airflow.apache.org/" target="_blank"> <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="apache-airflow" width="40" height="40"/> </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/SVG/PowerBI.svg" alt="powerbi" width="40" height="40"/> </a> 
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshini-p21&show_icons=true&locale=en" alt="roshini-p21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshinip21&show_icons=true&locale=en" alt="roshini-p21" /></p>
