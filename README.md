@@ -20,7 +20,5 @@
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="apache-airflow" width="40" height="40"/> </a> 
-  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/SVG/PowerBI.svg" alt="powerbi" width="40" height="40"/> </a> 
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshinip21&show_icons=true&locale=en" alt="roshini-p21" /></p>
