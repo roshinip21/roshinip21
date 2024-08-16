@@ -11,13 +11,20 @@
     <img src="https://img.shields.io/badge/-My%20Portfolio-brightgreen?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University. <br\>
+🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University. 
+
 🌱 I’m actively exploring opportunities in AI/ML Engineering, Technical Project Management, Data Engineering, and Cloud Computing.
+
 🤝 I thrive in team environments, where I can collaborate, share knowledge, and drive projects to successful completion.
+
 💬 Ask me about SQL, Python, Bash scripting, Data Pipelines, and Cloud Services.
+
 🚀 I have hands-on experience with Snowflake, AWS, Apache Airflow, and Machine Learning/AI technologies.
-📫 Reach me at rp6578@sdsu.edu
+
+📫 Reach me at rp6578@sdsu.edu , roshu34@gmail.com
+
 ⚡ Fun fact: I enjoy troubleshooting data flow issues and working on creative projects that blend technical skills with strategic thinking.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/roshini-p21" target="_blank">
