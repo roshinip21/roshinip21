@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Roshini Padmanabha 👋</h1>
-<h3 align="center">A passionate Information Systems graduate student, aspiring AI/ML Engineer, Technical Project Manager, and collaborative team player</h3>
+<h3 align="center">A passionate Information Systems graduate student, aspiring AI/ML Engineer, Technical Project Manager & a collaborative team player.</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=roshini-p21&label=Profile%20views&color=0e75b6&style=flat" alt="roshini-p21" />
 </p>
@@ -11,19 +11,20 @@
     <img src="https://img.shields.io/badge/-My%20Portfolio-brightgreen?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University. 
+
+🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University.
 
 🌱 I’m actively exploring opportunities in AI/ML Engineering, Technical Project Management, Data Engineering, and Cloud Computing.
 
 🤝 I thrive in team environments, where I can collaborate, share knowledge, and drive projects to successful completion.
 
-💬 Ask me about SQL, Python, Bash scripting, Data Pipelines, and Cloud Services.
+💬 Ask me about SQL, Python, Data Science, Data Analytics and Pipelines, Cloud Services & Program Management.
 
 🚀 I have hands-on experience with Snowflake, AWS, Apache Airflow, and Machine Learning/AI technologies.
 
 📫 Reach me at rp6578@sdsu.edu , roshu34@gmail.com
 
-⚡ Fun fact: I enjoy troubleshooting data flow issues and working on creative projects that blend technical skills with strategic thinking.
+⚡ Fun fact: I enjoy working on creative projects that blend technical skills with strategic thinking. Also I talk in 5+ languages, that makes me quite flexible and adaptable with diverse individuals. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
