@@ -20,7 +20,7 @@
 
 💬 Ask me about SQL, Python, Data Science, Data Analytics and Pipelines, Cloud Services & Program Management.
 
-🚀 I have hands-on experience with Snowflake, AWS, Apache Airflow, and Machine Learning/AI technologies.
+🚀 I have hands-on experience with Relational Databases, Snowflake Data Warehousing, AWS services, Apache Airflow, and Machine Learning/AI technologies.
 
 📫 Reach me at rp6578@sdsu.edu , roshu34@gmail.com
 
