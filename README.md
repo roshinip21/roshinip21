@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshini Padmanabha</h1>
-<h3 align="center">A passionate Information Systems graduate student, aspiring Data & ML Engineer, and a collaborative team player</h3>
+<h3 align="center">A passionate Information Systems graduate student, aspiring AI/ML Engineer, Technical Project Manager, and collaborative team player</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=roshini-p21&label=Profile%20views&color=0e75b6&style=flat" alt="roshini-p21" />
 </p>
@@ -7,15 +7,17 @@
   <a href="https://linkedin.com/in/roshini-p21" target="_blank">
     <img src="https://img.shields.io/badge/-Roshini%20Padmanabha-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Roshini Padmanabha" />
   </a> 
+  <a href="https://rosh-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-My%20Portfolio-brightgreen?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University.
-🌱 I’m actively exploring opportunities in Data Engineering, IT Project Management, and Cloud Computing.
+🌱 I’m actively exploring opportunities in AI/ML Engineering, Technical Project Management, Data Engineering, and Cloud Computing.
 🤝 I thrive in team environments, where I can collaborate, share knowledge, and drive projects to successful completion.
 💬 Ask me about SQL, Python, Bash scripting, Data Pipelines, and Cloud Services.
 🚀 I have hands-on experience with Snowflake, AWS, Apache Airflow, and Machine Learning/AI technologies.
 📫 Reach me at rp6578@sdsu.edu
 ⚡ Fun fact: I enjoy troubleshooting data flow issues and working on creative projects that blend technical skills with strategic thinking.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/roshini-p21" target="_blank">
@@ -34,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
   <a href="https://www.snowflake.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" alt="snowflake" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/bestofdevicons/snowflake/master/snowflake-original.svg" alt="snowflake" width="40" height="40"/> 
   </a> 
   <a href="https://aws.amazon.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
