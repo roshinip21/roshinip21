@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roshini Padmanabha</h1>
+<h1 align="center">Hi, I'm Roshini Padmanabha 👋</h1>
 <h3 align="center">A passionate Information Systems graduate student, aspiring AI/ML Engineer, Technical Project Manager, and collaborative team player</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=roshini-p21&label=Profile%20views&color=0e75b6&style=flat" alt="roshini-p21" />
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-My%20Portfolio-brightgreen?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University.
+🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University. <br\>
 🌱 I’m actively exploring opportunities in AI/ML Engineering, Technical Project Management, Data Engineering, and Cloud Computing.
 🤝 I thrive in team environments, where I can collaborate, share knowledge, and drive projects to successful completion.
 💬 Ask me about SQL, Python, Bash scripting, Data Pipelines, and Cloud Services.
