@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Roshini Padmanabha 👋</h1>
-<h3 align="center">A passionate Information Systems graduate student, aspiring AI/ML Engineer, Technical Project Manager & a collaborative team player.</h3>
+<h3 align="center">A passionate Information Systems graduate student, aspiring AI/ML & Data Engineer, Technical Project Manager & a collaborative team player.</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=roshini-p21&label=Profile%20views&color=0e75b6&style=flat" alt="roshini-p21" />
 </p>
@@ -16,13 +16,13 @@
 
 🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University.
 
-🌱 I’m actively exploring opportunities in AI/ML Engineering, Technical Project Management, Data Engineering, and Cloud Computing.
+🌱 I’m actively exploring opportunities in IT, Analytics & Data Science, Data Engineering, Cloud Computing and Technical Project Management.
 
 🤝 I thrive in team environments, where I can collaborate, share knowledge, and drive projects to successful completion.
 
-💬 Ask me about SQL, Python, Data Science, Data Analytics and Pipelines, Cloud Services & Program Management.
+💬 Ask me about SQL, Python, Data Science, Data Analytics and Engineering, Cloud Services & Program Management.
 
-🚀 I have hands-on experience with Relational Databases, Snowflake Data Warehousing, AWS services, Apache Airflow, and Machine Learning/AI technologies.
+🚀 I have hands-on experience with Relational Database Management, Snowflake Data Warehousing, AWS services, Oracle ERP Systems and Power BI/Tableau BI Dashboards.
 
 📫 Reach me at rp6578@sdsu.edu , roshu34@gmail.com
 
@@ -60,9 +60,53 @@
   </a> 
 </p>
 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+<br>
+<p >
+<img src="https://img.shields.io/badge/JAVA-%2300599C.svg?style=for-the-badge&logo=JAVA&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML-%234169E1.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/XML-%2300599C.svg?style=for-the-badge&logo=xml&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-%23FF9900.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Oracle%20DB-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Seaborn-%23239120.svg?style=for-the-badge&logo=seaborn&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tkinter-%234B8BBE.svg?style=for-the-badge&logo=tkinter&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/BeautifulSoup-%234B8BBE.svg?style=for-the-badge&logo=beautiful-soup&logoColor=white">&nbsp;&nbsp;  
+<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tableau-10012?style=for-the-badge&logo=globe&logoColor=white" alt="Tableau"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jira-%230A83D8.svg?style=for-the-badge&logo=jira&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PowerShell-%23000000.svg?style=for-the-badge&logo=powershell&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Microservices-%23305B9E.svg?style=for-the-badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bash%20Script-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kanban-%230079BF.svg?style=for-the-badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MapReduce-%23E34A33.svg?style=for-the-badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white">&nbsp;&nbsp;
+</p>
+<br>
 
 
 # Connect With Me:
