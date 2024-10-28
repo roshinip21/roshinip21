@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Roshini Padmanabha 👋</h1>
-<h3 align="center">A passionate Information Systems graduate student, aspiring AI/ML & Data Engineer, Technical Project Manager & a collaborative team player.</h3>
+<h3 align="center">A passionate Information Systems graduate student, aspiring ML & Data Engineer, Technical Program Manager & a collaborative team player.</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=roshini-p21&label=Profile%20views&color=0e75b6&style=flat" alt="roshini-p21" />
 </p>
@@ -16,13 +16,13 @@
 
 🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University.
 
-🌱 I’m actively exploring opportunities in IT, Analytics & Data Science, Data Engineering, Cloud Computing and Technical Project Management.
+🌱 I’m actively exploring opportunities in IT, Analytics & Data Science, Data Engineering, Cloud Computing and Technical Program Management.
 
 🤝 I thrive in team environments, where I can collaborate, share knowledge, and drive projects to successful completion.
 
-💬 Ask me about SQL, Python, Data Science, Data Analytics and Engineering, Cloud Services & Program Management.
+💬 Ask me about SQL, Python, AWS, Snowflake, Airflow, ETL,  ERP, Oracle RDBMS Or about Data Science, Data Analytics and Engineering.
 
-🚀 I have hands-on experience with Relational Database Management, Snowflake Data Warehousing, AWS services, Oracle ERP Systems and Power BI/Tableau BI Dashboards.
+🚀 I have hands-on corporate experience with Relational Database Management, Data Warehousing, AWS services, Oracle ERP Systems, Data Analytics, Modeling & Visualizations - Power BI/Tableau BI Dashboards.
 
 📫 Reach me at rp6578@sdsu.edu , roshu34@gmail.com
 
