@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Roshini Padmanabha 👋</h1>
-<h3 align="center">A passionate Information Systems graduate student, aspiring ML & Data Engineer, Technical Program Manager & a collaborative team player.</h3>
+<h3 align="center">A passionate Information Systems graduate student, a Data Engineer & Analyst, aspiring Technical Program Manager & a collaborative team player.</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=roshini-p21&label=Profile%20views&color=0e75b6&style=flat" alt="roshini-p21" />
 </p>
@@ -16,17 +16,17 @@
 
 🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University.
 
-🌱 I’m actively exploring opportunities in IT, Analytics & Data Science, Data Engineering, Cloud Computing and Technical Program Management.
+🌱 I’m actively exploring opportunities in IT, Data Science & Analytics, Data Engineering, Cloud Computing and Technical Program Management.
 
 🤝 I thrive in team environments, where I can collaborate, share knowledge, and drive projects to successful completion.
 
-💬 Ask me about SQL, Python, AWS, Snowflake, Airflow, ETL,  ERP, Oracle RDBMS Or about Data Science, Data Analytics and Engineering.
+💬 Ask me about SaaS, ERP, Enterprise Applications, Cloud, The Data World or on SQL, Python, AWS, Snowflake, Airflow, ETL, ERP, Oracle RDBMS.
 
-🚀 I have hands-on corporate experience with Relational Database Management, Data Warehousing, AWS services, Oracle ERP Systems, Data Analytics, Modeling & Visualizations - Power BI/Tableau BI Dashboards.
+🚀 I have hands-on corporate full-time experience with Software Development, Relational Database Management, Data Warehousing, AWS Services, Oracle ERP Systems, Data Analytics, Data Modeling, Visualizations - Power BI & Tableau Dashboards.
 
-📫 Reach me at rp6578@sdsu.edu , roshu34@gmail.com
+📫 Reach me at rp6578@sdsu.edu, roshu34@gmail.com 
 
-⚡ Fun fact: I enjoy working on creative projects that blend technical skills with strategic thinking. Also I talk in 5+ languages, that makes me quite flexible and adaptable with diverse individuals. 
+⚡ Fun fact: I enjoy working on creative projects that involve trending tech with strategic thinking for delivering business value. Also I talk in 5+ languages, that makes me quite flexible and adaptable with diverse individuals. So I blend in easily with people of all Teams.
 
 
 <br/>
