@@ -68,9 +68,6 @@
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HTML-%234169E1.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/XML-%2300599C.svg?style=for-the-badge&logo=xml&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white">&nbsp;&nbsp;
@@ -86,8 +83,9 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Seaborn-%23239120.svg?style=for-the-badge&logo=seaborn&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Tkinter-%234B8BBE.svg?style=for-the-badge&logo=tkinter&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/BeautifulSoup-%234B8BBE.svg?style=for-the-badge&logo=beautiful-soup&logoColor=white">&nbsp;&nbsp;  
+<img src="https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white">&nbsp;&nbsp;
+
+ <br><br> 
 <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">&nbsp;&nbsp;
@@ -98,13 +96,10 @@
 <img src="https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PowerShell-%23000000.svg?style=for-the-badge&logo=powershell&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Microservices-%23305B9E.svg?style=for-the-badge">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Bash%20Script-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Kanban-%230079BF.svg?style=for-the-badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MapReduce-%23E34A33.svg?style=for-the-badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white">&nbsp;&nbsp;
+
 </p>
 <br>
 
