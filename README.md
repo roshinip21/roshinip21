@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Roshini Padmanabha 👋</h1>
-<h3 align="center">A passionate Information Systems graduate student, a Data Engineer & Analyst, aspiring Technical Program Manager & a collaborative team player.</h3>
+<h3 align="center">An Information Systems 2nd year Graduate student, a passionate Data Engineer & Analyst, aspiring Technical Program Manager & a collaborative team player.</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=roshini-p21&label=Profile%20views&color=0e75b6&style=flat" alt="roshini-p21" />
 </p>
