@@ -22,11 +22,11 @@
 
 💬 Ask me about SaaS, ERP, Enterprise Applications, Cloud, The Data World or on SQL, Python, AWS, Snowflake, Airflow, ETL, ERP, Oracle RDBMS.
 
-🚀 I have hands-on corporate full-time experience with Software Development, Relational Database Management, Data Warehousing, AWS Services, Oracle ERP Systems, Data Analytics, Data Modeling, Visualizations - Power BI & Tableau Dashboards.
+🚀 I have hands-on corporate full-time experience with Software Development, Relational Database Management, Data Warehousing, AWS Services, Oracle ERP Systems, Data Analytics, Data Modeling, Visualizations - Power BI & Tableau Dashboards. I enjoy working on creative projects that leverage trending tech & strategic thinking for delivering business value.
 
 📫 Reach me at rp6578@sdsu.edu, roshu34@gmail.com 
 
-⚡ Fun fact: I enjoy working on creative projects that involve trending tech with strategic thinking for delivering business value. Also I talk in 5+ languages, that makes me quite flexible and adaptable with diverse individuals. So I blend in easily with people of all Teams.
+⚡ Fun fact:  I talk in 5+ languages, that makes me quite adaptable with diverse individuals. I blend in easily with people working in my Team.
 
 
 <br/>
