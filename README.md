@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Roshini Padmanabha 👋</h1>
-<h3 align="center">An Information Systems 2nd year Graduate student, a passionate Data Engineer & Analyst, aspiring Technical Program Manager & a collaborative team player.</h3>
+<h3 align="center">An Information Systems 2nd year Graduate student, passionate Data Engineer & Analyst, aspiring Technical Program Manager & a collaborative team player.</h3>
 <p align="middle"> 
   <a href="https://linkedin.com/in/roshini-p21" target="_blank">
-    <img src="https://img.shields.io/badge/-Roshini%20Padmanabha-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Roshini Padmanabha" />
+    <img src="https://img.shields.io/badge/-Roshini%20Padmanabha-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Roshini Padmanabha"/>
   </a> 
   <a href="https://rosh-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20Portfolio-purple?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-My%20Portfolio-purple?style=for-the-badge&logo=About.rp&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -24,9 +24,10 @@
 📫 Reach me at rp6578@sdsu.edu, roshu34@gmail.com 
 
 ⚡ Fun fact:  I talk in 5+ languages, that makes me quite adaptable with diverse individuals. I blend in easily with people working in my Team.
-
-
 <br/>
+<h3> Connect with me on <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshini-p21" height="15" width="25" /> : <a href="https://linkedin.com/in/roshini-p21" color='blue'> roshini-p21 </h3> 
+
+ </a> 
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
@@ -36,9 +37,6 @@
   </a> 
   <a href="https://www.w3schools.com/sql/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.snowflake.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/bestofdevicons/snowflake/master/snowflake-original.svg" alt="snowflake" width="40" height="40"/> 
   </a> 
   <a href="https://aws.amazon.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -51,9 +49,6 @@
   </a> 
   <a href="https://www.tensorflow.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="ML/AI" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tableau.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> 
   </a> 
 </p>
 
@@ -68,11 +63,23 @@
 <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
+  </p>
+ 
+  <h3>  Databases </h3> 
+ 
+<p>
+<img src="https://img.shields.io/badge/Snowflake-%234479A1.svg?style=for-the-badge&logo=snowflake&logoColor=black">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-%23FF9900.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Oracle%20DB-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MS%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
+</p>
+
+  
+<br> 
+<h3>Libraries and Frameworks</h3>
+<p>
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white">&nbsp;&nbsp;
@@ -89,25 +96,15 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Tableau-10012?style=for-the-badge&logo=globe&logoColor=white" alt="Tableau"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Jira-%230A83D8.svg?style=for-the-badge&logo=jira&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/REST%20APIs-%23000000.svg?style=for-the-badge">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Microservices-%23305B9E.svg?style=for-the-badge">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Bash%20Script-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white">&nbsp;&nbsp;
 
 </p>
 <br>
 
-
-# Connect With Me:
-<p align="left">
-  <a href="https://linkedin.com/in/roshini-p21" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshini-p21" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/roshini_p21" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roshini_p21" height="30" width="40" />
   </a>
 </p>
 
