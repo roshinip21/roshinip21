@@ -1,14 +1,11 @@
 <h1 align="center">Hi, I'm Roshini Padmanabha 👋</h1>
 <h3 align="center">An Information Systems 2nd year Graduate student, a passionate Data Engineer & Analyst, aspiring Technical Program Manager & a collaborative team player.</h3>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=roshini-p21&label=Profile%20views&color=0e75b6&style=flat" alt="roshini-p21" />
-</p>
-<p align="left"> 
+<p align="middle"> 
   <a href="https://linkedin.com/in/roshini-p21" target="_blank">
     <img src="https://img.shields.io/badge/-Roshini%20Padmanabha-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Roshini Padmanabha" />
   </a> 
   <a href="https://rosh-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20Portfolio-brightgreen?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-My%20Portfolio-purple?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
