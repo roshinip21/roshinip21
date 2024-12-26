@@ -31,7 +31,7 @@
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
-<br>
+
 <p >
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
@@ -46,7 +46,7 @@
   </p>
  
   <h3>  Databases </h3> 
- 
+
 <p>
 <img src="https://img.shields.io/badge/Snowflake-%234479A1.svg?style=for-the-badge&logo=snowflake&logoColor=black">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-%23FF9900.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
@@ -56,8 +56,6 @@
 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
 </p>
 
-  
-<br> 
 <h3>Libraries and Frameworks</h3>
 <p>
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;
@@ -69,7 +67,7 @@
 <img src="https://img.shields.io/badge/Seaborn-%23239120.svg?style=for-the-badge&logo=seaborn&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white">&nbsp;&nbsp;
 
- <br><br> 
+ <br>
  <h3>  Cloud Services and Tools </h3> 
  
 <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;&nbsp;
