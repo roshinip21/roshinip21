@@ -11,15 +11,15 @@
 
 # 💫 About Me:
 
-🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University.
+🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University. Looking for full-time roles starting May 2025.
 
 🌱 I’m actively exploring opportunities in IT, Data Science & Analytics, Data Engineering, Cloud Computing and Technical Program Management.
 
 🤝 I thrive in team environments, where I can collaborate, share knowledge, and drive projects to successful completion.
 
-💬 Ask me about SaaS, ERP, Enterprise Applications, Cloud, The Data World or on SQL, Python, AWS, Snowflake, Airflow, ETL, ERP, Oracle RDBMS.
+💬 Ask me about The Data World, Cloud, SaaS, ERP, Enterprise Applications or SQL, Python, AWS, Snowflake, Spark, DataBricks, Airflow, ETL, Oracle.
 
-🚀 I have hands-on corporate full-time experience with Software Development, Relational Database Management, Data Warehousing, AWS Services, Oracle ERP Systems, Data Analytics, Data Modeling, Visualizations - Power BI & Tableau Dashboards. I enjoy working on creative projects that leverage trending tech & strategic thinking for delivering business value.
+🚀 I have hands-on full-time experience with Software Development, Relational Database Management, Data Warehousing, AWS Services, Oracle ERP Systems, Data Analytics, Data Modeling, Visualizations - Power BI & Tableau Dashboards. I enjoy working on creative projects that leverage trending tech & strategic thinking for delivering business value.
 
 📫 Reach me at rp6578@sdsu.edu, roshu34@gmail.com 
 
@@ -31,33 +31,13 @@
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/sql/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://airflow.apache.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="ML/AI" width="40" height="40"/> 
-  </a> 
-</p>
-
 <br>
 <p >
-<img src="https://img.shields.io/badge/JAVA-%2300599C.svg?style=for-the-badge&logo=JAVA&logoColor=white">&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JAVA-%2300599C.svg?style=for-the-badge&logo=JAVA&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HTML-%234169E1.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">&nbsp;&nbsp;
