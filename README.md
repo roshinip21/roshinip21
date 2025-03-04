@@ -29,6 +29,32 @@
 
  </a> 
 
+ <h4> Database Projects 
+   <li>  <a href="https://github.com/roshinip21/AWS_Retail_Enterprise_Database"> AWS Retail Enterprise Database Management </a>
+
+ </h4> 
+   
+## My Projects
+
+### Data Engineering/Analytics
+- <a href="https://github.com/roshinip21/ResMed-ETL-Pipelines">ResMed ETL Pipelines</a> - Engineered high-volume ETL pipelines with Apache Airflow, DBT & Python, migrating Healthcare SaaS data from Azure MySQL into AWS S3 & Snowflake.
+- <a href="https://github.com/roshinip21/TCS-Data-Warehousing">TCS Data Warehousing</a> - Built and optimized scalable data pipelines using Apache Spark, Databricks, and SQL, reducing ETL processing time. Developed and managed data warehousing solutions in Azure Data Lake & Oracle 19c.
+- <a href="https://github.com/roshinip21/NYC-Taxi-Real-Time-Pipeline">New York Taxi Dataset - Real-Time Data Pipeline</a> - Built a real-time ETL pipeline using Kafka, Spark, ElasticSearch, & HDFS, streaming 1M+ NYC Taxi trip records daily.
+- <a href="https://github.com/roshinip21/Snowflake-Cost-Analysis">Snowflake Cost Analysis Dashboard</a> - Developed Power BI dashboards to analyze Snowflake warehouse compute, client, and ETL costs on AWS.
+
+### Machine Learning
+- <a href="https://github.com/roshinip21/NYC-Taxi-ML-Predictions">New York Taxi Dataset - ML Predictions</a> - Implemented ML-based ETA predictions with 90% accuracy.
+- <a href="https://github.com/roshinip21/CoviSafe-ML-Models">CoviSafe - COVID-19 Predictions</a> - Achieved 85% model accuracy by engineering ML models for symptom-based COVID-19 predictions using Python Flask and REST APIs.
+
+### Software Development
+- <a href="https://github.com/roshinip21/Terraform-Monitoring-Tool">Terraform based System Monitoring Tool</a> - Designed & deployed a cloud-based system monitoring pipeline using Terraform, Docker, Kubernetes, & AWS.
+- <a href="https://github.com/roshinip21/AWS-Serverless-Application">AWS Cloud Services - Serverless Application</a> - Increased application scalability & security by deploying an event-driven architecture using EC2, Lambda, DynamoDB, and S3.
+- <a href="https://github.com/roshinip21/LinkedIn-Job-Scraper">LinkedIn Job Postings Scraper & Profile Extractor</a> - Built an automated LinkedIn job scraper & profile extractor using Python Selenium & BeautifulSoup.
+
+### Web Development
+- <a href="https://github.com/roshinip21/CoviSafe-Web-App">CoviSafe - COVID-19 User Web App</a> - Enhanced user experience by integrating real-time data on vaccine slot booking, bed availability & hospital resources in various cities. Built with Python Flask and REST APIs.
+- <a href="https://github.com/roshinip21/AWS-Static-Website">AWS Cloud Services - Static Website</a> - Streamlined user activity tracking by configuring a static HTML website on S3, and integrated CloudWatch for monitoring.
+
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
 
