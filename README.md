@@ -21,39 +21,51 @@
 
 🚀 I have hands-on full-time experience with Software Development, Relational Database Management, Data Warehousing, AWS Services, Oracle ERP Systems, Data Analytics, Data Modeling, Data Visualizations using Power BI & Tableau Dashboards. I enjoy working on creative projects that leverage trending technologies & strategic thinking for delivering business value.
 
-📫 Reach me at rp6578@sdsu.edu, roshu34@gmail.com 
+📫 Reach me at rp6578@sdsu.edu, roshu34@gmail.com <h4> Connect with me on <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshini-p21" height="15" width="25" /> : <a href="https://linkedin.com/in/roshini-p21" color='blue'> roshini-p21 </h4> 
 
 ⚡ Fun fact:  I talk in 5+ languages, that makes me quite adaptable with diverse individuals. I blend easily with people working in my Team & organization.
 <br/>
-<h3> Connect with me on <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshini-p21" height="15" width="25" /> : <a href="https://linkedin.com/in/roshini-p21" color='blue'> roshini-p21 </h3> 
-
  </a> 
 
- <h4> Database Projects 
-   <li>  <a href="https://github.com/roshinip21/AWS_Retail_Enterprise_Database"> AWS Retail Enterprise Database Management </a>
+# My Projects
 
- </h4> 
-   
-## My Projects
+<h2>Data Engineering & Analytics</h2>
+<ul>
+  <li><a href="https://github.com/roshinip21/NYC-Taxi-Data-ETL">New York Taxi Real-Time Data Pipeline</a> - Built a real-time ETL pipeline using Kafka, Spark, ElasticSearch & HDFS, streaming 1M+ NYC Taxi trip records daily.</li>
+  <li><a href="https://github.com/roshinip21/Snowflake-Costing-Dashboards">Snowflake DB ETL Costing</a> - Developed Power BI dashboards to analyze Snowflake warehouse compute, client, and ETL costs on AWS.</li>
+  <li><a href="https://github.com/roshinip21/Uber_Data_Visualization">Uber Data Science Project</a> - Analyzed ride patterns, peak hours, and geographical trends across various US cities.</li>
+  <li><a href="https://github.com/roshinip21/Medical_Insurance_Analytics_R_Project">Medical Insurance Dataset Analytics</a> - Predicted medical insurance charges using regression techniques in R.</li>
+  <li><a href="https://github.com/roshinip21/AWS_Retail_Enterprise_Database">Retail Store Database Management System</a> - Built a robust AWS RDS for Retail Store Operations & Analytics with interactive dashboards. Leveraged AWS services to ensure 70% horizontal scalability for retail operations</li>
+</ul>
 
-### Data Engineering/Analytics
-- <a href="https://github.com/roshinip21/ResMed-ETL-Pipelines">ResMed ETL Pipelines</a> - Engineered high-volume ETL pipelines with Apache Airflow, DBT & Python, migrating Healthcare SaaS data from Azure MySQL into AWS S3 & Snowflake.
-- <a href="https://github.com/roshinip21/TCS-Data-Warehousing">TCS Data Warehousing</a> - Built and optimized scalable data pipelines using Apache Spark, Databricks, and SQL, reducing ETL processing time. Developed and managed data warehousing solutions in Azure Data Lake & Oracle 19c.
-- <a href="https://github.com/roshinip21/NYC-Taxi-Real-Time-Pipeline">New York Taxi Dataset - Real-Time Data Pipeline</a> - Built a real-time ETL pipeline using Kafka, Spark, ElasticSearch, & HDFS, streaming 1M+ NYC Taxi trip records daily.
-- <a href="https://github.com/roshinip21/Snowflake-Cost-Analysis">Snowflake Cost Analysis Dashboard</a> - Developed Power BI dashboards to analyze Snowflake warehouse compute, client, and ETL costs on AWS.
+<h2>Machine Learning & AI</h2>
+<ul>
+  <li><a href="https://github.com/roshinip21/Face-Recognition">Facial Recognition Systems</a> - Developed a facial recognition system using OpenCV and PostgreSQL's pgvector extension.</li>
+  <li><a href="https://github.com/roshinip21/Object-detection">TensorFlow-Based Object Detection</a> - Built an object detection application using TensorFlow and React.</li>
+  <li><a href="https://github.com/roshinip21/Data-Science-BreastCancer-Classification">Breast Cancer Classification</a> - Achieved 96.49% accuracy with Logistic Regression for tumor classification.</li>
+  <li><a href="https://github.com/roshinip21/Covid-19_Flask_User_Application">Covid-19 Prediction ML Models</a> - Implemented 4 ML models for COVID-19 symptom prediction with 77% accuracy.</li>
+</ul>
 
-### Machine Learning
-- <a href="https://github.com/roshinip21/NYC-Taxi-ML-Predictions">New York Taxi Dataset - ML Predictions</a> - Implemented ML-based ETA predictions with 90% accuracy.
-- <a href="https://github.com/roshinip21/CoviSafe-ML-Models">CoviSafe - COVID-19 Predictions</a> - Achieved 85% model accuracy by engineering ML models for symptom-based COVID-19 predictions using Python Flask and REST APIs.
+<h2>Cloud & DevOps</h2>
+<ul>
+  <li><a href="https://github.com/roshinip21/AWS_Lambda_Web_Application">AWS Serverless Web Application</a> - Deployed a scalable web application using S3, CloudFront, Route 53, Lambda, DynamoDB, and EC2.</li>
+  <li><a href="https://github.com/roshinip21/System_Monitoring_Terraform_Docker">Terraform based System Monitoring Tool</a> - Designed & deployed a cloud-based system monitoring pipeline using Terraform, Docker, Kubernetes & AWS.</li>
+</ul>
 
-### Software Development
-- <a href="https://github.com/roshinip21/Terraform-Monitoring-Tool">Terraform based System Monitoring Tool</a> - Designed & deployed a cloud-based system monitoring pipeline using Terraform, Docker, Kubernetes, & AWS.
-- <a href="https://github.com/roshinip21/AWS-Serverless-Application">AWS Cloud Services - Serverless Application</a> - Increased application scalability & security by deploying an event-driven architecture using EC2, Lambda, DynamoDB, and S3.
-- <a href="https://github.com/roshinip21/LinkedIn-Job-Scraper">LinkedIn Job Postings Scraper & Profile Extractor</a> - Built an automated LinkedIn job scraper & profile extractor using Python Selenium & BeautifulSoup.
+<h2>Web Development & Automation</h2>
+<ul>
+  <li><a href="https://github.com/roshinip21/Covid-19_Flask_User_Application">CoviSafe - The COVID-19 Flask Web App</a> - Built a Flask application with features for vaccine booking and hospital resource tracking.</li>
 
-### Web Development
-- <a href="https://github.com/roshinip21/CoviSafe-Web-App">CoviSafe - COVID-19 User Web App</a> - Enhanced user experience by integrating real-time data on vaccine slot booking, bed availability & hospital resources in various cities. Built with Python Flask and REST APIs.
-- <a href="https://github.com/roshinip21/AWS-Static-Website">AWS Cloud Services - Static Website</a> - Streamlined user activity tracking by configuring a static HTML website on S3, and integrated CloudWatch for monitoring.
+  <li><a href="https://github.com/roshinip21/LinkedIn-JobPosting-Profile-Scraper">LinkedIn Job Postings Scraper</a> - Automated job hunting with Python, Selenium, and BeautifulSoup.</li>
+  </ul>
+
+<h2> Project & Program Management </h2>
+<ul>
+  <li><a href="https://github.com/roshinip21/Apple-Macbook-Portfolio-Management">Apple Macbook Portfolio Management </li>
+
+  <li><a href="https://github.com/roshinip21/Apple-iPhone-Project-Management-and-Program-Charter">Apple iPhone Project Management and Program Charter - This repository contains the program charter and strategic project design documentation for the iPhone 18 Transformation Program. </li>
+  </ul>
+
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
