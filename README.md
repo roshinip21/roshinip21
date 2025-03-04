@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Roshini Padmanabha 👋</h1>
-<h3 align="center">An Information Systems 2nd year Graduate student, passionate Data Engineer & Analyst, aspiring Technical Program Manager & a collaborative team player.</h3>
+<h3 align="center"> A Data Engineer & Analyst, an aspiring Senior Engineer & TPM. A collaborative team player having 3+ years of full-time experience across Retail, SaaS, Healthcare & EV industries.</h3>
 <p align="middle"> 
   <a href="https://linkedin.com/in/roshini-p21" target="_blank">
     <img src="https://img.shields.io/badge/-Roshini%20Padmanabha-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Roshini Padmanabha"/>
@@ -13,17 +13,17 @@
 
 🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University. Looking for full-time roles starting May 2025.
 
-🌱 I’m actively exploring opportunities in IT, Data Science & Analytics, Data Engineering, Cloud Computing and Technical Program Management.
+🌱 I’m actively exploring opportunities in Data Engineering,Cloud Computing, IT, Data Science & Analytics and Technical Program Management.
 
 🤝 I thrive in team environments, where I can collaborate, share knowledge, and drive projects to successful completion.
 
-💬 Ask me about The Data World, Cloud, SaaS, ERP, Enterprise Applications or SQL, Python, AWS, Snowflake, Spark, DataBricks, Airflow, ETL, Oracle.
+💬 Ask me about The Data World, Cloud, SaaS, ERP, Enterprise Applications or projects leveraging SQL, Python, AWS, Snowflake, Spark, DataBricks, Airflow, ETL, Oracle, Power BI, etc.
 
-🚀 I have hands-on full-time experience with Software Development, Relational Database Management, Data Warehousing, AWS Services, Oracle ERP Systems, Data Analytics, Data Modeling, Visualizations - Power BI & Tableau Dashboards. I enjoy working on creative projects that leverage trending tech & strategic thinking for delivering business value.
+🚀 I have hands-on full-time experience with Software Development, Relational Database Management, Data Warehousing, AWS Services, Oracle ERP Systems, Data Analytics, Data Modeling, Data Visualizations using Power BI & Tableau Dashboards. I enjoy working on creative projects that leverage trending technologies & strategic thinking for delivering business value.
 
 📫 Reach me at rp6578@sdsu.edu, roshu34@gmail.com 
 
-⚡ Fun fact:  I talk in 5+ languages, that makes me quite adaptable with diverse individuals. I blend in easily with people working in my Team.
+⚡ Fun fact:  I talk in 5+ languages, that makes me quite adaptable with diverse individuals. I blend easily with people working in my Team & organization.
 <br/>
 <h3> Connect with me on <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshini-p21" height="15" width="25" /> : <a href="https://linkedin.com/in/roshini-p21" color='blue'> roshini-p21 </h3> 
 
