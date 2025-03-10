@@ -128,7 +128,3 @@
   </a>
 </p>
 
-
-# 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshinip21&show_icons=true&locale=en" alt="roshini-p21" /></p>
-
