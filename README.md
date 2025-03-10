@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Roshini Padmanabha 👋</h1>
-<h3 align="center"> A Data Engineer & Analyst, an aspiring Senior Engineer & TPM. A collaborative team player having 3+ years of full-time experience across Retail, SaaS, Healthcare & EV industries.</h3>
+<h3 align="center"> Data Engineer & Analyst, an aspiring Technical Product Manager. A collaborative team player having 3+ years of full-time experience across Retail, SaaS, Healthcare & EV industries.</h3>
 <p align="middle"> 
   <a href="https://linkedin.com/in/roshini-p21" target="_blank">
     <img src="https://img.shields.io/badge/-Roshini%20Padmanabha-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Roshini Padmanabha"/>
