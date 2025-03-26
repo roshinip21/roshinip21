@@ -33,6 +33,7 @@
 <ul>
 
   <li><a href="https://github.com/roshinip21/Snowflake-Costing-Dashboards">Snowflake DB ETL Costing</a> - Developed Power BI dashboards to analyze Snowflake warehouse compute, client, and ETL costs on AWS.</li>
+  <li><a href="https://github.com/roshinip21/Real-time-Data-Streaming-and-Dashboard-Visualization-with-AWS">AWS Real time Data Pipeline Streaming & Dashboard Visualization</a> - A comprehensive end-to-end solution for ingesting, processing, and visualizing real-time data streams utilizing Apache Flink, Amazon Web Services like Kinesis, Glue, S3, Firehose, Athena, Quicksight.  </li>
   <li><a href="https://github.com/roshinip21/NYC-Taxi-Data-ETL">New York Taxi Real-Time Data Pipeline</a> - Built a real-time ETL pipeline using Kafka, Spark, ElasticSearch & HDFS, streaming 1M+ NYC Taxi trip records daily.</li>
     <li><a href="https://github.com/roshinip21/Warehouse-Inventory-Analytics-Dashboard">Warehouse-Inventory-Analytics-Dashboard</a> - An interactive Warehouse Inventory & Sales Analytics Dashboard using Tableau analysing product details, stock levels, supplier performance, sales volume, and more.</li>
   <li><a href="https://github.com/roshinip21/Uber_Data_Visualization">Uber Data Science Project</a> - Analyzed ride patterns, peak hours, and geographical trends across various US cities.</li>
@@ -59,7 +60,11 @@
   <li><a href="https://github.com/roshinip21/Covid-19_Flask_User_Application">CoviSafe - The COVID-19 Flask Web App</a> - Built a Flask application with features for vaccine booking and hospital resource tracking.</li>
 
   <li><a href="https://github.com/roshinip21/LinkedIn-JobPosting-Profile-Scraper">LinkedIn Job Postings Scraper</a> - Automated job hunting with Python, Selenium, and BeautifulSoup.</li>
+
+  <li><a href="https://github.com/roshinip21/Home-Decor-Full-Stack-Web-Application-"> Home Decor Full Stack Web Application </a> - Developed a responsive E-Commerce platform for home decor using HTML, PHP, and JavaScript, enabling secure user registration and login. Implemented interactive shopping cart functionality and dynamic user sessions, significantly enhancing UI/UX and online purchasing convenience. </li> 
   </ul>
+
+  
 
 <h2> Project & Program Management </h2>
 <ul>
