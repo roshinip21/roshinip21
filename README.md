@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Roshini Padmanabha 👋</h1>
-<h3 align="center"> Data Engineer & Analyst - Driving Data Business Solutions. A collaborative team player with 3+ years of full-time experience across IT, ERP Retail, SaaS, Healthcare & EV industries.</h3>
+<h3 align="center"> Data Engineer & Analyst - Driving Business Solutions. A collaborative team player with 3+ years of full-time experience across IT, Supply chain - Retail, SaaS, Healthcare & EV industries.</h3>
 <p align="middle"> 
   <a href="https://linkedin.com/in/roshini-p21" target="_blank">
     <img src="https://img.shields.io/badge/-Roshini%20Padmanabha-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Roshini Padmanabha"/>
@@ -12,18 +12,15 @@
 # 💫 About Me:
 
 🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University. Looking for full-time roles starting May 2025.
-
-🌱 I’m actively exploring opportunities in Data Engineering, Data Analytics, Cloud Computing, and Product Analyst roles.
-
+🌱 I’m actively exploring roles in Data Engineering and Analytics, , Cloud Computing, and Product Analyst roles.
 🤝 I thrive in team environments, where I can collaborate, share knowledge, and drive projects to successful completion.
-
-💬 Ask me about The Data World, Cloud, Machine Learning & ERP Supply chain Operations!
+💬 Ask me about The Data World, System Design, Cloud Services, Machine Learning & Supply chain - ERP Operations!
 
 🚀 I specialize in software development, relational database management, data warehousing, and analytics. Experienced with SQL, Python, AWS, Snowflake, Spark, Databricks, Airflow, Oracle, Power BI, and Tableau. I enjoy working on creative projects that leverage trending technologies & strategic thinking for delivering business value.
 
-📫 Reach me at rp6578@sdsu.edu, roshu34@gmail.com <h4> Connect with me on <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshini-p21" height="15" width="25" /> : <a href="https://linkedin.com/in/roshini-p21" color='blue'> roshini-p21 </h4> 
+📫 Reach me at roshini.padmanabha@gmail.com, roshu34@gmail.com <h4> Connect with me on <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshini-p21" height="15" width="25" /> : <a href="https://linkedin.com/in/roshini-p21" color='blue'> roshini-p21 </h4> 
 
-⚡ Fun fact:  I talk in 5+ languages, that makes me quite adaptable with diverse individuals and helps adapt seamlessly within teams and organizational cultures.
+⚡ Fun fact:  I speak 5+ languages, making me adaptable with diverse individuals and seamlessly communicate within teams and organizational cultures.
 <br/>
  </a> 
 
@@ -76,29 +73,54 @@
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
-
 <p >
-
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PL--SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL Badge">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JAVA-%2300599C.svg?style=for-the-badge&logo=JAVA&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HTML-%234169E1.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white">&nbsp;&nbsp;
+
   </p>
  
   <h3>  Databases </h3> 
-
 <p>
 <img src="https://img.shields.io/badge/Snowflake-%234479A1.svg?style=for-the-badge&logo=snowflake&logoColor=black">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Oracle%20DB-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-%23FF9900.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Oracle%20DB-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MS%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
+</p>
+
+<h3> BI Tools</h3>
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black">&nbsp;&nbsp;
+</p>
+
+<h3>Data Engineering Tools</h3>
+<p>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka Badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow Badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt Badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ETL/ELT-5C2D91?style=for-the-badge&logo=data&logoColor=white" alt="ETL/ELT Badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jira-%230A83D8.svg?style=for-the-badge&logo=jira&logoColor=white">&nbsp;&nbsp;
+</p> 
+
+<h3>  Cloud Services and CI/CD </h3> 
+<p>
+<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
 </p>
 
 <h3>Libraries and Frameworks</h3>
@@ -110,24 +132,8 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Seaborn-%23239120.svg?style=for-the-badge&logo=seaborn&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white">&nbsp;&nbsp;
-
  <br>
- <h3>  Cloud Services and Tools </h3> 
- 
-<img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Jira-%230A83D8.svg?style=for-the-badge&logo=jira&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Bash%20Scripting-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white">&nbsp;&nbsp;
 
-</p>
-<br>
 
   </a>
 </p>
