@@ -11,16 +11,15 @@
 
 # 💫 About Me:
 
-🔭 I’m currently pursuing my Masters in Information Systems at San Diego State University. Looking for full-time roles starting May 2025.
-🌱 I’m actively exploring roles in Data Engineering and Analytics, , Cloud Computing, and Product Analyst roles.
+🔭 I have a MS degree in Information Systems and Bachelor's in Computer Science. I’m actively open to roles across Data Engineering and Analytics, Cloud Computing and IT Systems.
 🤝 I thrive in team environments, where I can collaborate, share knowledge, and drive projects to successful completion.
-💬 Ask me about The Data World, System Design, Cloud Services, Machine Learning & Supply chain - ERP Operations!
 
-🚀 I specialize in software development, relational database management, data warehousing, and analytics. Experienced with SQL, Python, AWS, Snowflake, Spark, Databricks, Airflow, Oracle, Power BI, and Tableau. I enjoy working on creative projects that leverage trending technologies & strategic thinking for delivering business value.
+💬 Ask me about The Data World, System Design, Machine Learning & Supply chain - ERP Operations!
+🚀 I specialize in ETL pipeline development, developing scalable cloud solutions, data warehousing, and analytics. I enjoy working on creative projects that leverage trending technologies & strategic thinking for delivering business value.
 
 📫 Reach me at roshini.padmanabha@gmail.com, roshu34@gmail.com <h4> Connect with me on <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshini-p21" height="15" width="25" /> : <a href="https://linkedin.com/in/roshini-p21" color='blue'> roshini-p21 </h4> 
 
-⚡ Fun fact:  I speak 5+ languages, making me adaptable with diverse individuals and seamlessly communicate within teams and organizational cultures.
+⚡ Fun fact: R for Reliable, R for Roshini. Also, I speak 5+ languages, helps me seamlessly communicate with diverse individuals across teams and organizational cultures.
 <br/>
  </a> 
 
