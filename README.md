@@ -16,11 +16,11 @@
 
 - 🔭 **Educational Background:** MS in Information Systems, Bachelor's in Computer Science.
 - 🤝 **Team-Oriented:** Collaborative, knowledge-sharing, project-driven.
-- 🚀 **Specializations:** Data analytics, ETL/ELT pipelines, scalable cloud solutions, solutions engineering, data warehousing.
+- 🚀 **Specializations:** Database Management, Data analytics, ETL/ELT pipelines, scalable cloud solutions, solutions engineering.
 - 💬 **Expertise:** Data Engineering, System Design, Machine Learning, Supply Chain ERP Operations.
 - 📫 **Contact:** roshini.padmanabha@gmail.com | roshu34@gmail.com
 - ⚡ **Fun Fact:** Fluent in 5+ languages, connecting easily with diverse teams. R for Reliable, R for Roshini.
-
+- 💖 **Hobbies:** My lovely Pets (Dogs & Cats) 🐾, travelling ✈️, and food vlogging 🍜📸
 ---
 
 ## 🚀 Data Engineering & Analytics
