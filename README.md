@@ -34,8 +34,10 @@
 - [**AWS Real-Time Data Pipeline Streaming & Visualization**](https://github.com/roshinip21/Real-time-Data-Streaming-and-Dashboard-Visualization-with-AWS)  
   End-to-end real-time streaming pipeline using Apache Flink, AWS Kinesis, Glue, S3, Athena & QuickSight.
 
-- [**SD Food Connect Application**](https://github.com/roshinip21/Food-Bank-Application)  
-  Developed scalable food redistribution app with geospatial analytics, robust DB management & interactive visual dashboards.
+- [**SD Food Connect**](https://github.com/roshinip21/Food-Bank-Application) and 
+  [**Cali Connect Application**](https://github.com/roshinip21/Cali-Connect-FoodBank-Application)
+
+  Developed scalable food redistribution app with ML based donation center matching, geospatial analytics, robust DB management & interactive visual dashboards.
 
 - [**California Real Estate Analytics**](https://github.com/roshinip21/California_HousePrice_Prediction)  
   Applied regression & clustering models to analyze housing prices and market segmentation across 35,000 listings.
