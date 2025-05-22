@@ -1,7 +1,8 @@
 
 
 <h1 align="center">Hi, I'm Roshini Padmanabha 👋</h1>
-<h3 align="center">Data Engineer & Analyst | Driving Business Solutions | Collaborative team player with 3+ years experience across Tech, Supply Chain, Retail, SaaS, Healthcare & EV domains</h3>
+<h3 align="center"> | Data Engineer & Analyst | Driving Business Solutions |  </h3>
+  <h4>With 3+ years of experience bridging data engineering, analytics, and cloud platforms to transform raw data into strategic insights empowering decision-making through scalable pipelines, intuitive dashboards, and well-modeled data systems </h4>
 
 <p align="center"> 
   <a href="https://linkedin.com/in/roshini-p21" target="_blank">
@@ -15,10 +16,11 @@
 ## 💫 About Me:
 
 - 🔭 **Educational Background:** MS in Information Systems, Bachelor's in Computer Science.
-- 🤝 **Team-Oriented:** Collaborative, knowledge-sharing, project-driven.
-- 🚀 **Specializations:** Database Management, Data analytics, ETL/ELT pipelines, scalable cloud solutions, solutions engineering.
-- 💬 **Expertise:** Data Engineering, System Design, Machine Learning, Supply Chain ERP Operations.
-- 📫 **Contact:** roshini.padmanabha@gmail.com | roshu34@gmail.com
+- 🤝 **Team-Oriented:** Problem Solver, Collaborator, knowledge-sharing, project-driven.
+- 🚀 **Specializations:** Databases, Data analytics, ETL/ELT pipelines, Cloud and Web solutions, Solutions engineering, Data Science.
+- 💬 **Expertise:** Data Engineering, System Design, Machine Learning, ERP Backend Systems.
+- 🤖 **Domain Experience:** Retail, Healthcare, EV, Supply Chain, SaaS, ERP,  Product, Finance, GTM
+- 📫 **Contact:** roshini.padmanabha@gmail.com ,  Linkedin - https://linkedin.com/in/roshini-p21
 - ⚡ **Fun Fact:** Fluent in 5+ languages, connecting easily with diverse teams. R for Reliable, R for Roshini.
 - 💖 **Hobbies:** My lovely Pets (Dogs & Cats) 🐾, travelling ✈️, and food vlogging 🍜📸
 ---
