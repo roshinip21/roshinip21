@@ -1,9 +1,10 @@
 
 
 <h1 align="center">Hi, I'm Roshini Padmanabha 👋</h1>
-<h3 align="center"> | Data Engineer & Analyst | Driving Business Solutions |  </h3>
-  <h4>With 3+ years of experience bridging data engineering, analytics, and cloud platforms to transform raw data into strategic insights empowering decision-making through scalable pipelines, intuitive dashboards, and well-modeled data systems </h4>
-
+<h3 align="center">  Data Engineer & Analyst | Driving Business Solutions </h3>
+  <h4>With 3+ years of experience bridging data engineering, analytics, and cloud platforms to transform raw data into strategic insights. Skilled in
+collaborating with client teams to translate technical challenges into actionable solutions for long-term business value.</h4>
+<h4> </h4>
 <p align="center"> 
   <a href="https://linkedin.com/in/roshini-p21" target="_blank">
     <img src="https://img.shields.io/badge/-Roshini%20Padmanabha-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
@@ -21,7 +22,7 @@
 - 💬 **Expertise:** Data Engineering, System Design, Machine Learning, ERP Backend Systems.
 - 🤖 **Domain Experience:** Retail, Healthcare, EV, Supply Chain, SaaS, ERP,  Product, Finance, GTM
 - 📫 **Contact:** roshini.padmanabha@gmail.com ,  Linkedin - https://linkedin.com/in/roshini-p21
-- ⚡ **Fun Fact:** Fluent in 5+ languages, connecting easily with diverse teams. R for Reliable, R for Roshini.
+- ⚡ **Fun Fact:** Fluent in 5+ languages, I connect easily with diverse teams. R for Reliable, R for Roshini.
 - 💖 **Hobbies:** My lovely Pets (Dogs & Cats) 🐾, travelling ✈️, and food vlogging 🍜📸
 ---
 
