@@ -16,14 +16,14 @@ collaborating with client teams to translate technical challenges into actionabl
 
 ## 💫 About Me:
 
-- 🔭 **Educational Background:** MS in Information Systems, Bachelor's in Computer Science.
-- 🤝 **Team-Oriented:** Problem Solver, Collaborator, knowledge-sharing, project-driven.
-- 🚀 **Specializations:** Databases, Data analytics, ETL/ELT pipelines, Cloud and Web solutions, Solutions engineering, Data Science.
-- 💬 **Expertise:** Data Engineering, System Design, Machine Learning, ERP Backend Systems.
-- 🤖 **Domain Experience:** Retail, Healthcare, EV, Supply Chain, SaaS, ERP,  Product, Finance, GTM
-- 📫 **Contact:** roshini.padmanabha@gmail.com ,  Linkedin - https://linkedin.com/in/roshini-p21
-- ⚡ **Fun Fact:** Fluent in 5+ languages, I connect easily with diverse teams. R for Reliable, R for Roshini.
-- 💖 **Hobbies:** My lovely Pets (Dogs & Cats) 🐾, travelling ✈️, and food vlogging 🍜📸
+- 🔭 **Educational Background:**  MS in Information Systems, Bachelor's in Computer Science.
+- 🤝 **Team-Oriented:**  Problem Solver, Collaborator, knowledge-sharing, project-driven.
+- 🚀 **Specializations:**  Database Management, Data analytics, ETL/ELT pipelines, Cloud and Web Development, Data Science.
+- 💬 **Expertise:**  Cloud Data Warehouses, Data Engineering, Data Modeling, System Design, Machine Learning, Backend Systems.
+- 🤖 **Domain Experience:**  Retail, Healthcare, EV, Supply Chain, SaaS, ERP, Product, Finance, GTM
+- 📫 **Contact:**  roshini.padmanabha@gmail.com ,  Linkedin - https://linkedin.com/in/roshini-p21
+- ⚡ **Fun Fact:**  Fluent in 5+ languages, I connect easily with diverse teams. R for Reliable, R for Roshini.
+- 💖 **Hobbies:**  My lovely Pets (Dogs & Cats) 🐾, travelling ✈️, and food vlogging 🍜📸
 ---
 
 ## 🚀 Data Engineering & Analytics
