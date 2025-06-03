@@ -37,6 +37,9 @@ collaborating with client teams to translate technical challenges into actionabl
 - [**AWS Real-Time Data Pipeline Streaming & Visualization**](https://github.com/roshinip21/Real-time-Data-Streaming-and-Dashboard-Visualization-with-AWS)  
   End-to-end real-time streaming pipeline using Apache Flink, AWS Kinesis, Glue, S3, Athena & QuickSight.
 
+- [**GCP Stock Price Data ETL Pipeline using BigQuery, Airflow**](https://github.com/roshinip21/GCP-Stock-Price-ETL-Pipeline)  
+  Real-time stock price data extracted through daily API call made with Airflow DAG, GCP Cloud Run, DataFlow ETL pipeline to land processed data in BigQuery.
+
 - [**SD Food Connect**](https://github.com/roshinip21/Food-Bank-Application) and 
   [**Cali Connect Application**](https://github.com/roshinip21/Cali-Connect-FoodBank-Application)
 
