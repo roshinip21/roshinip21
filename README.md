@@ -29,7 +29,7 @@ collaborating with client teams to translate technical challenges into actionabl
 ## 🚀 Data Engineering & Analytics
 
 - [**Snowflake Data Warehouse ETL Costing - Power BI Dashboards**](https://github.com/roshinip21/Snowflake-Costing-Dashboards)  
-  Developed Power BI dashboards analyzing Snowflake warehouse compute & ETL costs on AWS S3, DBT and Airflow.
+  Developed Power BI dashboards analyzing Snowflake Data warehouse compute, query & ETL costs.
   
 - [**Warehouse Inventory Analytics - Tableau Dashboard**](https://github.com/roshinip21/Warehouse-Inventory-Analytics-Dashboard)  
   Interactive Tableau dashboards analyzing inventory, sales volume, supplier performance.
