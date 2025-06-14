@@ -51,6 +51,9 @@ collaborating with client teams to translate technical challenges into actionabl
 - [**New York Taxi Real-Time Data Pipeline**](https://github.com/roshinip21/NYC-Taxi-Data-ETL)  
   Real-time ETL pipeline with Kafka, Spark, ElasticSearch & HDFS, streaming 1M+ NYC Taxi records daily.
 
+- [**Sigma BI Dashboard for Snowflake WH Costing**](https://github.com/roshinip21/Sigma-Dashboard-Snowflake-WH-Data-Analysis)
+  Built Dashboards on Sigma, leveraging Snowflake Meta-data to analyse Warehouse compute, events history and storage costs.
+  
 - [**Airline Price Prediction**](https://github.com/roshinip21/Airline_TicketPrediction/tree/main)  
   Built predictive ML models forecasting airline ticket prices using Python, achieving 85% accuracy.
 
