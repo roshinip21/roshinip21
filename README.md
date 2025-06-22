@@ -14,6 +14,11 @@ collaborating with client teams to translate technical challenges into actionabl
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/roshinip21/roshinip21/blob/main/Tech_Girl_Image.png" alt="Geek Girl" width="50%" />
+</p>
+
+
 ## 💫 About Me:
 
 - 🔭 **Educational Background:**  MS in Information Systems, Bachelor's in Computer Science.
