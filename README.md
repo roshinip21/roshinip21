@@ -9,7 +9,7 @@ collaborating with client teams to translate technical challenges into actionabl
   <a href="https://linkedin.com/in/roshini-p21" target="_blank">
     <img src="https://img.shields.io/badge/-Roshini%20Padmanabha-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a> 
-  <a href="https://rosh-portfolio.vercel.app/" target="_blank">
+  <a href="https://github.com/roshinip21/roshinip21/" target="_blank">
     <img src="https://img.shields.io/badge/-My%20Portfolio-purple?style=for-the-badge&logo=About.rp&logoColor=white" alt="Portfolio" />
   </a>
 </p>
