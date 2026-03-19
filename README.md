@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi, I'm Roshini Padmanabha 👋</h1>
-<h3 align="center">  Data Engineer & Analyst | Driving Business Solutions </h3>
-  <h4>With 4+ years of experience bridging data engineering, analytics, and cloud platforms to transform raw data into strategic insights. Skilled in
-collaborating with client teams to translate technical challenges into actionable solutions for long-term business value.</h4>
+<h3 align="center">  Data Analytics Engineer | Driving Data and BI Solutions </h3>
+  <h4 align="center">With 4+ years of experience bridging data engineering, analytics, and cloud platforms to transform raw data into strategic insights. Skilled in
+collaborating with stakeholders to translate technical challenges into actionable solutions for long-term business value.</h4>
 <h4> </h4>
 <p align="center"> 
   <a href="https://linkedin.com/in/roshini-p21" target="_blank">
@@ -21,16 +21,85 @@ collaborating with client teams to translate technical challenges into actionabl
 
 ## 💫 About Me:
 
-- 🔭 **Educational Background:**  MS in Information Systems, Bachelor's in Computer Science.
-- 🤝 **Team-Oriented:**  Problem Solver, Collaborator, knowledge-sharing, project-driven.
-- 🚀 **Specializations:**  Database Management, Data analytics, ETL/ELT pipelines, Cloud and Web Development, Data Science.
-- 💬 **Expertise:**  Cloud Data Warehouses, Data Engineering, Data Modeling, System Design, Machine Learning, Backend Systems.
-- 🤖 **Domain Experience:**  Retail, Healthcare, EV, Supply Chain, SaaS, ERP, Product, Finance, GTM
-- 📫 **Contact:**  roshini.padmanabha@gmail.com ,  Linkedin - https://linkedin.com/in/roshini-p21
-- ⚡ **Fun Fact:**  Fluent in 5+ languages, I connect easily with diverse teams. R for Reliable, R for Roshini.
-- 💖 **Hobbies:**  My lovely Pets (Dogs & Cats) 🐾, travelling ✈️, and food vlogging 🍜📸
+- 🎓 **Education:** Master’s in Information Systems & Big Data Analytics | Bachelor’s in Computer Science  
+- 🔧 **Core Strengths:** Data Engineering, Data Science, Analytics Engineering, Product Analytics, Stakeholder Management  
+- 🚀 **Specializations:** Data Modeling, ETL/ELT Pipelines, Machine Learning, Cloud Data Warehousing (AWS/GCP), BI & Dashboarding, Data Quality & Reliability  
+- 💬 **Expertise:** SQL, Python, Snowflake, BigQuery, Redshift, Databricks, DBT, Airflow, Sigma, Tableau, Power BI, Looker
+- 🤝 **Professional Approach:** Collaborative problem-solver with experience partnering across Product, Engineering, and Business teams to deliver scalable, data-driven solutions  
+- 🌍 **Domain Experience:** SaaS, Retail & Supply Chain, Healthcare, EV & Sustainability, Finance, ERP and CRM Systems
+- 📫 **Contact:** roshini.padmanabha@gmail.com | [LinkedIn](https://linkedin.com/in/roshini-p21)  
+- ⚡ **Fun Fact:** Fluent in 5+ languages — enabling strong cross-functional communication and global collaboration  
+- 💖 **Beyond Work:** Passionate about traveling ✈️, food exploration 🍜, and spending time with pets 🐾  
 ---
 
+## 💻 Tech Stack
+
+### 🛠️ Languages & Core Tools
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🗄️ Databases & Data Warehousing
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 BI & Analytics Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma_Computing-000000?style=for-the-badge&logo=sigma&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+### ⚙️ Data Engineering & Processing
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
+
+---
+
+### 📚 Libraries & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+---
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🔄 Workflow & Collaboration | 🔗 APIs, Integration & Automation
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-6A5ACD?style=for-the-badge)
+![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+---
 ## 🚀 Data Engineering & Analytics
 
 - [**Snowflake Data Warehouse ETL Costing - Power BI Dashboards**](https://github.com/roshinip21/Snowflake-Costing-Dashboards)  
@@ -121,46 +190,3 @@ collaborating with client teams to translate technical challenges into actionabl
   Documentation & strategic design for iPhone 18 transformation program.
 
 ---
-
-## 💻 Tech Stack:
-
-### 🛠️ Languages & Tools:
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-
-### 🗄️ Databases:
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MS SQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📊 BI Tools:
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### ⚙️ Data Engineering Tools:
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
-
-### ☁️ Cloud & CI/CD:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### 📚 Libraries & Frameworks:
-![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
