@@ -33,7 +33,7 @@ collaborating with stakeholders to translate technical challenges into actionabl
   <a href="#-machine-learning--ai">
     <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="90"/>
   </a>
-  <a href="#-cloud--devops">
+  <a href="#-cloud--devops--1">
     <img src="https://img.icons8.com/color/96/cloud.png" width="90"/>
   </a>
   <a href="#-project--program-management">
