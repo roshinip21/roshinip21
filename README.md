@@ -29,7 +29,7 @@ collaborating with stakeholders to translate technical challenges into actionabl
 - 🚀 **Specializations:** Data Modeling, ETL/ELT Pipelines, Machine Learning, Cloud Data Warehousing (AWS/GCP), BI & Dashboarding, Data Quality & Reliability  
 - 💬 **Expertise:** SQL, Python, Snowflake, BigQuery, Redshift, Databricks, DBT, Airflow, Sigma, Tableau, Power BI, Looker
 - 🤝 **Professional Approach:** Collaborative problem-solver with experience partnering across Product, Engineering, and Business teams to deliver scalable, data-driven solutions  
-- 🌍 **Domain Experience:** SaaS, Retail & Supply Chain, Healthcare, EV & Sustainability, Finance, ERP and CRM Systems
+- 🌍 **Domain Experience:** SaaS, Retail & Supply Chain, Healthcare, EV, Financial, Payments, ERP and CRM Systems
 - 📫 **Contact:** roshini.padmanabha@gmail.com | [LinkedIn](https://linkedin.com/in/roshini-p21)  
 - ⚡ **Fun Fact:** Fluent in 5+ languages — enabling strong cross-functional communication and global collaboration  
 - 💖 **Beyond Work:** Passionate about traveling ✈️, food exploration 🍜, and spending time with pets 🐾  
