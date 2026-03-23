@@ -1,10 +1,14 @@
 
 
-<h1 align="center">Hi, I'm Roshini Padmanabha 👋</h1>
-<h3 align="center">  Data Analytics Engineer | Driving Data and BI Solutions </h3>
-  <h4 align="center">With 4+ years of experience bridging data engineering, analytics, and cloud platforms to transform raw data into strategic insights. Skilled in
+<h1 align="center">Hi, I'm Roshini Padmanabha 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Analytics+Engineer;Machine+Learning+Enthusiast;Cloud+%26+Big+Data+Specialist;Turning+Data+into+Business+Impact" />
+</p></h1>
+<!--h3 align="center">  Data Analytics Engineer | Driving Data and BI Solutions </h3-->
+
+ <h4 align="center">With 4+ years of experience bridging data engineering, analytics, and cloud platforms to transform raw data into strategic insights. Skilled in
 collaborating with stakeholders to translate technical challenges into actionable solutions for long-term business value.</h4>
-<h4> </h4>
+
 <p align="center"> 
   <a href="https://linkedin.com/in/roshini-p21" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin%20-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
@@ -16,10 +20,36 @@ collaborating with stakeholders to translate technical challenges into actionabl
     <img src="https://img.shields.io/badge/Projects-Brown?style=for-the-badge&logo=About.rp&logoColor=white" alt="My Projects" />
   </a> 
 </p>
+ 
+
+
+<h3 align="center">🚀 Explore My Work
+
 
 <p align="center">
-  <img src="https://github.com/roshinip21/roshinip21/blob/main/Tech_Girl_Image.png" alt="Geek Girl" width="50%" />
+  <a href="#-data-engineering--analytics">
+    <img src="https://img.icons8.com/color/96/database.png" width="90"/>
+  </a>
+  <a href="#-machine-learning--ai">
+    <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="90"/>
+  </a>
+  <a href="#-cloud--devops">
+    <img src="https://img.icons8.com/color/96/cloud.png" width="90"/>
+  </a>
+  <a href="#-project--program-management">
+    <img src="https://img.icons8.com/color/96/combo-chart.png" width="90"/>
+  </a>
 </p>
+
+<p align="center">
+  <b>Data Engineering</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>ML / AI</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Cloud</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Product / PM</b>
+</p>
+<p align="center">
+  <img src="https://github.com/roshinip21/roshinip21/blob/main/Tech_Girl_Image.png" alt="Geek Girl" width="50%" />
+</p> </h3>
 
 
 ## 💫 About Me:
