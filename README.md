@@ -155,36 +155,27 @@ collaborating with stakeholders to translate technical challenges into actionabl
 
   Developed scalable food redistribution app with ML based donation center matching, geospatial analytics, robust DB management & interactive visual dashboards.
 
-- [**California Real Estate Analytics**](https://github.com/roshinip21/California_HousePrice_Prediction)  
-  Applied regression & clustering models to analyze housing prices and market segmentation across 35,000 listings.
-
 - [**New York Taxi Real-Time Data Pipeline**](https://github.com/roshinip21/NYC-Taxi-Data-ETL)  
   Real-time ETL pipeline with Kafka, Spark, ElasticSearch & HDFS, streaming 1M+ NYC Taxi records daily.
-  
-- [**Airline Price Prediction**](https://github.com/roshinip21/Airline_TicketPrediction/tree/main)  
-  Built predictive ML models forecasting airline ticket prices using Python, achieving 85% accuracy.
-
-- [**Uber Ride Data Analysis & Visualization**](https://github.com/roshinip21/Uber_Data_Visualization)  
-  Visualized ride patterns & geographic trends across major US cities.
-
-- [**Medical Insurance Cost Analysis & Prediction**](https://github.com/roshinip21/Medical_Insurance_Analytics_R_Project)  
-  Predicted medical charges with regression analysis in R.
 
 - [**Retail Store Database Management**](https://github.com/roshinip21/AWS_Retail_Enterprise_Database)  
   Developed AWS RDS for retail analytics, ensuring 70% horizontal scalability.
 
 ---
 
-## 🤖 Machine Learning & AI
+## 🤖 Data Science, Machine Learning & AI
 
 - [**Facial Recognition Systems**](https://github.com/roshinip21/Face-Recognition)  
   Facial recognition app using OpenCV & PostgreSQL.
 
-  - [**California Real Estate Analytics**](https://github.com/roshinip21/California_HousePrice_Prediction)  
+- [**California Real Estate Analytics**](https://github.com/roshinip21/California_HousePrice_Prediction)  
   Applied regression & clustering models to analyze housing prices and market segmentation across 35,000 listings.
   
-- [**Airline Price Prediction**](https://github.com/roshinip21/Airline_TicketPrediction/tree/main)  
-  Built predictive ML models forecasting airline ticket prices using Python, achieving 85% accuracy.
+- [**Uber Ride Data Analysis & Visualization**](https://github.com/roshinip21/Uber_Data_Visualization)  
+  Visualized ride patterns & geographic trends across major US cities.
+
+- [**Medical Insurance Cost Analysis & Prediction**](https://github.com/roshinip21/Medical_Insurance_Analytics_R_Project)  
+  Predicted medical charges with regression analysis in R.
 
 - [**TensorFlow-Based Object Detection**](https://github.com/roshinip21/Object-detection)  
   Built object detection app using TensorFlow & React.
@@ -194,6 +185,10 @@ collaborating with stakeholders to translate technical challenges into actionabl
 
 - [**COVID-19 Prediction Python Application**](https://github.com/roshinip21/Covid-19_Flask_User_Application)  
   ML models predicting COVID-19 symptoms with 77% accuracy.
+
+- [**Airline Price Prediction**](https://github.com/roshinip21/Airline_TicketPrediction/tree/main)  
+  Built predictive ML models forecasting airline ticket prices using Python, achieving 85% accuracy.
+
 
 ---
 
