@@ -135,18 +135,21 @@ collaborating with stakeholders to translate technical challenges into actionabl
 ---
 ## 🚀 Data Engineering & Analytics
 
-- [**Snowflake Data Warehouse ETL Costing - Power BI Dashboards**](https://github.com/roshinip21/Snowflake-Costing-Dashboards)  
-  Developed Power BI dashboards analyzing Snowflake Data warehouse compute, query & ETL costs.
-  
-- [**Warehouse Inventory Analytics - Tableau Dashboard**](https://github.com/roshinip21/Warehouse-Inventory-Analytics-Dashboard)  
-  Interactive Tableau dashboards analyzing inventory, sales volume, supplier performance.
-
 - [**AWS Real-Time Data Pipeline Streaming & Visualization**](https://github.com/roshinip21/Real-time-Data-Streaming-and-Dashboard-Visualization-with-AWS)  
   End-to-end real-time streaming pipeline using Apache Flink, AWS Kinesis, Glue, S3, Athena & QuickSight.
 
 - [**GCP Stock Price Data ETL Pipeline using BigQuery, Airflow**](https://github.com/roshinip21/GCP-Stock-Price-ETL-Pipeline)  
   Real-time stock price data extracted through daily API call made with Airflow DAG, GCP Cloud Run, DataFlow ETL pipeline to land processed data in BigQuery.
 
+- [**Snowflake Data Warehouse ETL Costing - Power BI Dashboards**](https://github.com/roshinip21/Snowflake-Costing-Dashboards)  
+  Developed Power BI dashboards analyzing Snowflake Data warehouse compute, query & ETL costs.
+  
+- [**Warehouse Inventory Analytics - Tableau Dashboard**](https://github.com/roshinip21/Warehouse-Inventory-Analytics-Dashboard)  
+  Interactive Tableau dashboards analyzing inventory, sales volume, supplier performance.
+
+- [**Sigma BI Dashboard for Snowflake WH Costing**](https://github.com/roshinip21/Sigma-Dashboard-Snowflake-WH-Data-Analysis)  
+  Built Dashboards on Sigma, leveraging Snowflake Meta-data to analyse Warehouse compute, events history and storage costs.
+  
 - [**SD Food Connect**](https://github.com/roshinip21/Food-Bank-Application) and 
   [**Cali Connect Application**](https://github.com/roshinip21/Cali-Connect-FoodBank-Application)
 
@@ -157,9 +160,6 @@ collaborating with stakeholders to translate technical challenges into actionabl
 
 - [**New York Taxi Real-Time Data Pipeline**](https://github.com/roshinip21/NYC-Taxi-Data-ETL)  
   Real-time ETL pipeline with Kafka, Spark, ElasticSearch & HDFS, streaming 1M+ NYC Taxi records daily.
-
-- [**Sigma BI Dashboard for Snowflake WH Costing**](https://github.com/roshinip21/Sigma-Dashboard-Snowflake-WH-Data-Analysis)  
-  Built Dashboards on Sigma, leveraging Snowflake Meta-data to analyse Warehouse compute, events history and storage costs.
   
 - [**Airline Price Prediction**](https://github.com/roshinip21/Airline_TicketPrediction/tree/main)  
   Built predictive ML models forecasting airline ticket prices using Python, achieving 85% accuracy.
@@ -179,6 +179,12 @@ collaborating with stakeholders to translate technical challenges into actionabl
 
 - [**Facial Recognition Systems**](https://github.com/roshinip21/Face-Recognition)  
   Facial recognition app using OpenCV & PostgreSQL.
+
+  - [**California Real Estate Analytics**](https://github.com/roshinip21/California_HousePrice_Prediction)  
+  Applied regression & clustering models to analyze housing prices and market segmentation across 35,000 listings.
+  
+- [**Airline Price Prediction**](https://github.com/roshinip21/Airline_TicketPrediction/tree/main)  
+  Built predictive ML models forecasting airline ticket prices using Python, achieving 85% accuracy.
 
 - [**TensorFlow-Based Object Detection**](https://github.com/roshinip21/Object-detection)  
   Built object detection app using TensorFlow & React.
