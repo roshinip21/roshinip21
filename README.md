@@ -13,7 +13,7 @@ collaborating with stakeholders to translate technical challenges into actionabl
   <a href="https://linkedin.com/in/roshini-p21" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin%20-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a> 
-  <a href="https://github.com/roshinip21" target="_blank">
+  <a href="https://rosh-portfolio.lovable.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=About.rp&logoColor=white" alt="Portfolio" />
   </a> 
   <a href="https://github.com/roshinip21#-data-engineering--analytics" target="_blank">
