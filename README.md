@@ -150,9 +150,7 @@ collaborating with stakeholders to translate technical challenges into actionabl
 - [**Sigma BI Dashboard for Snowflake WH Costing**](https://github.com/roshinip21/Sigma-Dashboard-Snowflake-WH-Data-Analysis)  
   Built Dashboards on Sigma, leveraging Snowflake Meta-data to analyse Warehouse compute, events history and storage costs.
   
-- [**SD Food Connect**](https://github.com/roshinip21/Food-Bank-Application) and 
-  [**Cali Connect Application**](https://github.com/roshinip21/Cali-Connect-FoodBank-Application)
-
+- [**SD Food Connect Application**](https://github.com/roshinip21/Food-Bank-Application) 
   Developed scalable food redistribution app with ML based donation center matching, geospatial analytics, robust DB management & interactive visual dashboards.
 
 - [**New York Taxi Real-Time Data Pipeline**](https://github.com/roshinip21/NYC-Taxi-Data-ETL)  
@@ -209,6 +207,9 @@ collaborating with stakeholders to translate technical challenges into actionabl
 
 - [**LinkedIn Job Postings Scraper**](https://github.com/roshinip21/LinkedIn-JobPosting-Profile-Scraper)  
   Automated job-hunting bot using Python & Selenium.
+
+- [**Streamlit Foodbank Application**](https://github.com/roshinip21/Cali-Connect-FoodBank-Application)
+  Developed a food redistribution app with ML based donation center matching, geospatial analytics application on Streamlit
 
 - [**Home Decor E-Commerce Platform**](https://github.com/roshinip21/Home-Decor-Full-Stack-Web-Application-)  
   E-commerce platform built with HTML, PHP & JavaScript enhancing UX/UI.
