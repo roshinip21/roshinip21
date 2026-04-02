@@ -16,7 +16,7 @@
   <a href="https://rosh-portfolio.lovable.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=About.rp&logoColor=white" alt="Portfolio" />
   </a> 
-  <a href="https://github.com/roshinip21#-data-engineering--analytics" target="_blank">
+  <a href="https://rosh-portfolio.lovable.app/#projects" target="_blank">
     <img src="https://img.shields.io/badge/Projects-Brown?style=for-the-badge&logo=About.rp&logoColor=white" alt="My Projects" />
   </a> 
 </p>
