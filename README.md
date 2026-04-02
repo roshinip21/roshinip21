@@ -6,8 +6,8 @@
 </p></h1>
 <!--h3 align="center">  Data Analytics Engineer | Driving Data and BI Solutions </h3-->
 
- <h4 align="center">With 4+ years of experience bridging data engineering, analytics, and cloud platforms to transform raw data into strategic insights. Skilled in
-collaborating with stakeholders to translate technical challenges into actionable solutions for long-term business value.</h4>
+ <h4 align="center">
+ With 4+ years of experience bridging data analytics, data science, engineering, and cloud platforms to transform raw data into strategic insights. Skilled in collaborating with stakeholders to translate technical challenges into actionable solutions for business value.</h4>
 
 <p align="center"> 
   <a href="https://linkedin.com/in/roshini-p21" target="_blank">
