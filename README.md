@@ -14,23 +14,26 @@
     <img src="https://img.shields.io/badge/-Linkedin%20-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a> 
   <a href="https://rosh-portfolio.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=About.rp&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/My Portfolio-purple?style=for-the-badge&logo=About.rp&logoColor=white" alt="Portfolio" />
+  </a> 
+  <a href="https://topmate.io/roshini_padmanabha21" target="_blank">
+    <img src="https://img.shields.io/badge/TopMate-red?style=for-the-badge&logo=TopMate&logoColor=white" alt="TopMate"/>
   </a> 
   <a href="https://rosh-portfolio.lovable.app/#projects" target="_blank">
-    <img src="https://img.shields.io/badge/Projects-Brown?style=for-the-badge&logo=About.rp&logoColor=white" alt="My Projects" />
+    <img src="https://img.shields.io/badge/Projects-Red?style=for-the-badge&logo=About.rp&logoColor=white" alt="My Projects" />
   </a> 
 </p>
  
 
 
-<h3 align="center">🚀 Explore My Work
+<h3 align="center"> Explore My Work 🔗
 
 
 <p align="center">
   <a href="#-data-engineering--analytics">
     <img src="https://img.icons8.com/color/96/database.png" width="90"/>
   </a>
-  <a href="#-machine-learning--ai">
+  <a href="https://github.com/roshinip21/roshinip21/edit/main/README.md#-data-science-machine-learning--ai">
     <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="90"/>
   </a>
   <a href="https://github.com/roshinip21/roshinip21/tree/main?tab=readme-ov-file#%EF%B8%8F-cloud--devops-1">
