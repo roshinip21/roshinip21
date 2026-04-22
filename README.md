@@ -33,10 +33,10 @@
   <a href="#-data-engineering--analytics">
     <img src="https://img.icons8.com/color/96/database.png" width="90"/>
   </a>
-  <a href="https://github.com/roshinip21/roshinip21/edit/main/README.md#-data-science-machine-learning--ai">
+  <a href="https://github.com/roshinip21#-data-science-machine-learning--ai">
     <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="90"/>
   </a>
-  <a href="https://github.com/roshinip21/roshinip21/tree/main?tab=readme-ov-file#%EF%B8%8F-cloud--devops-1">
+  <a href="https://github.com/roshinip21#%EF%B8%8F-cloud--devops-1">
     <img src="https://img.icons8.com/color/96/cloud.png" width="90"/>
   </a>
   <a href="#-project--program-management">
